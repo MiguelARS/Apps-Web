@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>University</name>
+    </assembly>
+    <members>
+        <member name="M:University.ApiControllers.CampusCareersApiController.GetcampusCareers">
+            <summary>
+            Api REST que devuelve los campuses
+            </summary>
+            <returns>JSON de los campuses</returns>
+        </member>
+        <member name="M:University.ApiControllers.CampusesApiController.GetCampuses">
+            <summary>
+            Get all Campuses
+            </summary>
+            <returns>All Campuses</returns>
+        </member>
+        <member name="M:University.ApiControllers.CampusesApiController.GetCampus(System.Int32)">
+            <summary>
+            Get a specific Campus.
+            </summary>
+            <param name="id"></param>
+            <returns>One campus</returns>
+            <response code="404">The id not found in Campuses</response>
+            <response code="200">OK - One campus</response>
+        </member>
+        <member name="M:University.ApiControllers.CampusesApiController.PutCampus(System.Int32,University.Models.Campus)">
+            <summary>
+            Update a specific Campus.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                PUT /api/Campuses
+                {
+                    "campusID": 0,
+                    "name": "string"
+                }
+            
+            </remarks>
+            <param name="id"></param>
+            <param name="campus"></param>        
+            <response code="400">the id is different to campus.CampusID</response>   
+            <response code="404">The campus not found</response>
+        </member>
+        <member name="M:University.ApiControllers.CampusesApiController.PostCampus(University.Models.Campus)">
+            <summary>
+            Creates a Campus.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST /api/Campuses
+                {
+                   "name": "string"
+                }
+            
+            </remarks>
+            <param name="campus"></param>
+            <returns>A newly created Campus</returns>
+            <response code="201">Returns the newly created campus</response>
+            <response code="400">If the campus is null or invalid</response>            
+        </member>
+        <member name="M:University.ApiControllers.CampusesApiController.DeleteCampus(System.Int32)">
+            <summary>
+            Deletes a specific Campus.
+            </summary>
+            <param name="id"></param>   
+        </member>
+    </members>
+</doc>

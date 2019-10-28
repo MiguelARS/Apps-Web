@@ -1,0 +1,334 @@
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.csprojAssemblyReference.cache
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.RazorAssemblyInfo.cache
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.RazorAssemblyInfo.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.AssemblyInfoInputs.cache
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.AssemblyInfo.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.TagHelpers.input.cache
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.TagHelpers.output.cache
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.RazorCoreGenerate.cache
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.RazorTargetAssemblyInfo.cache
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.RazorTargetAssemblyInfo.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.dll
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.pdb
+C:/Users/USUARIO/source/repos/University/bin/Debug/netcoreapp2.2/appsettings.Development.json
+C:/Users/USUARIO/source/repos/University/bin/Debug/netcoreapp2.2/appsettings.json
+C:/Users/USUARIO/source/repos/University/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+C:/Users/USUARIO/source/repos/University/bin/Debug/netcoreapp2.2/University.deps.json
+C:/Users/USUARIO/source/repos/University/bin/Debug/netcoreapp2.2/University.runtimeconfig.json
+C:/Users/USUARIO/source/repos/University/bin/Debug/netcoreapp2.2/University.runtimeconfig.dev.json
+C:/Users/USUARIO/source/repos/University/bin/Debug/netcoreapp2.2/University.dll
+C:/Users/USUARIO/source/repos/University/bin/Debug/netcoreapp2.2/University.pdb
+C:/Users/USUARIO/source/repos/University/bin/Debug/netcoreapp2.2/University.Views.dll
+C:/Users/USUARIO/source/repos/University/bin/Debug/netcoreapp2.2/University.Views.pdb
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.Views.pdb
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/University.csproj.CopyComplete
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Create.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Delete.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Details.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Edit.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Index.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Create.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Delete.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Details.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Edit.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Index.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Create.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Delete.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Details.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Edit.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Index.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Create.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Delete.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Details.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Edit.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Index.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Create.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Delete.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Details.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Edit.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Index.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Create.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Delete.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Details.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Edit.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Index.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Create.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Delete.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Details.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Edit.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Index.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Create.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Delete.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Details.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Edit.cshtml.g.cs
+C:/Users/USUARIO/source/repos/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Index.cshtml.g.cs
+/Users/developer/University/bin/Debug/netcoreapp2.2/University.deps.json
+/Users/developer/University/bin/Debug/netcoreapp2.2/University.runtimeconfig.json
+/Users/developer/University/bin/Debug/netcoreapp2.2/University.runtimeconfig.dev.json
+/Users/developer/University/bin/Debug/netcoreapp2.2/University.dll
+/Users/developer/University/bin/Debug/netcoreapp2.2/University.pdb
+/Users/developer/University/bin/Debug/netcoreapp2.2/University.Views.dll
+/Users/developer/University/bin/Debug/netcoreapp2.2/University.Views.pdb
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.csprojAssemblyReference.cache
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.RazorAssemblyInfo.cache
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.RazorAssemblyInfo.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.AssemblyInfoInputs.cache
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.AssemblyInfo.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.TagHelpers.input.cache
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.TagHelpers.output.cache
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.RazorCoreGenerate.cache
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.RazorTargetAssemblyInfo.cache
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.RazorTargetAssemblyInfo.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.Views.pdb
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.dll
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.pdb
+/Users/developer/University/obj/Debug/netcoreapp2.2/University.csproj.CopyComplete
+/Users/developer/University/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/developer/University/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/developer/University/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Create.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Delete.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Details.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Edit.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Index.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Create.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Delete.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Details.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Edit.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Index.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Create.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Delete.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Details.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Edit.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Index.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Create.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Delete.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Details.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Edit.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Index.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Create.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Delete.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Details.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Edit.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Index.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Create.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Delete.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Details.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Edit.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Index.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Create.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Delete.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Details.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Edit.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Index.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Create.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Delete.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Details.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Edit.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Index.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/developer/University/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/developer/Project/University/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/developer/Project/University/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/developer/Project/University/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/developer/Project/University/bin/Debug/netcoreapp2.2/University.deps.json
+/Users/developer/Project/University/bin/Debug/netcoreapp2.2/University.runtimeconfig.json
+/Users/developer/Project/University/bin/Debug/netcoreapp2.2/University.runtimeconfig.dev.json
+/Users/developer/Project/University/bin/Debug/netcoreapp2.2/University.dll
+/Users/developer/Project/University/bin/Debug/netcoreapp2.2/University.pdb
+/Users/developer/Project/University/bin/Debug/netcoreapp2.2/University.Views.dll
+/Users/developer/Project/University/bin/Debug/netcoreapp2.2/University.Views.pdb
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.csprojAssemblyReference.cache
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.RazorAssemblyInfo.cache
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.RazorAssemblyInfo.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.AssemblyInfoInputs.cache
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.AssemblyInfo.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.TagHelpers.input.cache
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.TagHelpers.output.cache
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.RazorCoreGenerate.cache
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Create.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Delete.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Details.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Edit.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Index.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Create.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Delete.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Details.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Edit.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Index.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Create.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Delete.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Details.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Edit.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Index.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Create.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Delete.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Details.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Edit.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Index.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Create.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Delete.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Details.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Edit.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Index.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Create.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Delete.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Details.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Edit.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Index.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Create.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Delete.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Details.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Edit.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Students/Index.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Create.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Delete.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Details.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Edit.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Index.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.RazorTargetAssemblyInfo.cache
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.RazorTargetAssemblyInfo.cs
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.Views.pdb
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.dll
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.pdb
+/Users/developer/Project/University/obj/Debug/netcoreapp2.2/University.csproj.CopyComplete
+/Users/developer/Downloads/University 2/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/developer/Downloads/University 2/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/developer/Downloads/University 2/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/developer/Downloads/University 2/bin/Debug/netcoreapp2.2/University.deps.json
+/Users/developer/Downloads/University 2/bin/Debug/netcoreapp2.2/University.runtimeconfig.json
+/Users/developer/Downloads/University 2/bin/Debug/netcoreapp2.2/University.runtimeconfig.dev.json
+/Users/developer/Downloads/University 2/bin/Debug/netcoreapp2.2/University.dll
+/Users/developer/Downloads/University 2/bin/Debug/netcoreapp2.2/University.pdb
+/Users/developer/Downloads/University 2/bin/Debug/netcoreapp2.2/University.Views.dll
+/Users/developer/Downloads/University 2/bin/Debug/netcoreapp2.2/University.Views.pdb
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.csprojAssemblyReference.cache
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.RazorAssemblyInfo.cache
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.RazorAssemblyInfo.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.AssemblyInfoInputs.cache
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.AssemblyInfo.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.TagHelpers.input.cache
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.TagHelpers.output.cache
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.RazorCoreGenerate.cache
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Create.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Delete.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Details.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Edit.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Index.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Create.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Delete.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Details.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Edit.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/CampusCareers/Index.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Create.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Delete.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Details.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Edit.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Campuses/Index.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Create.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Delete.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Details.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Edit.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Careers/Index.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Create.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Delete.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Details.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Edit.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Courses/Index.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Create.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Delete.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Details.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Edit.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Enrollments/Index.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Students/Create.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Students/Delete.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Students/Details.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Students/Edit.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Students/Index.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Create.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Delete.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Details.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Edit.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/Teachers/Index.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.RazorTargetAssemblyInfo.cache
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.RazorTargetAssemblyInfo.cs
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.Views.pdb
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.dll
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.pdb
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.csproj.CopyComplete
+/Users/developer/Downloads/University 2/bin/Debug/netcoreapp2.2/University.xml
+/Users/developer/Downloads/University 2/obj/Debug/netcoreapp2.2/University.xml
